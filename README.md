@@ -35,6 +35,10 @@
 ---
 
 # 📫 Contact Me
-![Email](https://img.shields.io/badge/Email-jonibeknosirxonov0@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)(jonibeknosirxonov0@gmail.com)
+<a href="mailto:jonibeknosirxonov0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-jonibeknosirxonov0@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 <br>
-![Telegram](https://img.shields.io/badge/Telegram-@premvibe-0088cc?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/premvibe)
+<a href="https://t.me/premvibe">
+  <img src="https://img.shields.io/badge/Telegram-@premvibe-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
