@@ -24,9 +24,16 @@
 
 ## ⚙️ Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=green)
+![Linux Terminal](https://img.shields.io/badge/Linux%20Terminal-262626?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux Distros](https://img.shields.io/badge/Linux%20Distros-0088cc?style=for-the-badge&logo=linux&logoColor=white)
+![Python Frameworks](https://img.shields.io/badge/FastAPI%2C%20Flask%2C%20Django-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
