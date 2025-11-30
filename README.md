@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=30&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Jonibek!+👋;C++,+Python,+Algorithms+Enthusiast;Competitive+Programmer+%7C+Linux+User;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?size=30&color=8A2BE2&center=true&vCenter=true&width=600&lines=Jonibek+Nosirxonov;C++,+Python,+Algorithms+Enthusiast;Competitive+Programmer+%7C+Linux+User;Welcome+to+my+GitHub+Profile!" />
 </div>
 
 ---
