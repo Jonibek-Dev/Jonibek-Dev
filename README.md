@@ -1,3 +1,4 @@
+```markdown
 <!-- Header Banner -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=28&color=7E57C2&center=true&vCenter=true&width=600&lines=Hello+World!+👋;Full+Stack+Developer;Problem+Solver+%7C+Tech+Enthusiast;Open+Source+Contributor" />
@@ -8,18 +9,18 @@
 ## 🚀 About Me
 
 <div align="center">
-  
+
 ```cpp
 class Developer {
 public:
-  string name = "Jonibek";
-  string passion = "Turning ideas into reality";
-  vector<string> skills = {"C++", "Python", "Algorithms", "Linux", "Web Development"};
-  bool isLearning() { return true; }
+    string name = "Jonibek";
+    string passion = "Turning ideas into reality";
+    vector<string> skills = {"C++", "Python", "Algorithms", "Linux", "Web Development"};
+    bool isLearning() { return true; }
 };
+```
 
 </div>
-
 🌟 Competitive Programmer with passion for algorithms and problem solving
 💻 Full-Stack Developer exploring modern web technologies
 🐧 Linux Enthusiast who loves customizing and system programming
