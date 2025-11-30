@@ -29,12 +29,12 @@
 ---
 
 # 🏆 Competitive Programming Profiles
-🔹 **Codeforces:** [@premvibe](https://codeforces.com/profile/premvibe)  
-🔹 **Robocontest:** [@premvibe](https://robocontest.uz/profile/premvibe)
+🔹 **Codeforces:** [premvibe](https://codeforces.com/profile/premvibe)  
+🔹 **Robocontest:** [premvibe](https://robocontest.uz/profile/premvibe)
 
 ---
 
 # 📫 Contact Me
-![Email](https://img.shields.io/badge/Email-jonibeknosirxonov0@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)
+![Email](https://img.shields.io/badge/Email-jonibeknosirxonov0@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)(jonibeknosirxonov0@gmail.com)
 <br>
-![Telegram](https://img.shields.io/badge/Telegram-@premvibe-0088cc?style=for-the-badge&logo=telegram&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-@premvibe-0088cc?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/premvibe)
