@@ -1,4 +1,3 @@
-```markdown
 <!-- Header Banner -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=28&color=7E57C2&center=true&vCenter=true&width=600&lines=Hello+World!+👋;Full+Stack+Developer;Problem+Solver+%7C+Tech+Enthusiast;Open+Source+Contributor" />
@@ -18,7 +17,6 @@ public:
   vector<string> skills = {"C++", "Python", "Algorithms", "Linux", "Web Development"};
   bool isLearning() { return true; }
 };
-```
 
 </div>
 
