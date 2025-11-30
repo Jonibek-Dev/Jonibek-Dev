@@ -34,19 +34,6 @@
 
 ---
 
-# 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jonibek-Dev&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonibek-Dev&layout=compact&theme=tokyonight)
-
----
-
 # 📫 Contact Me
 ![Email](https://img.shields.io/badge/Email-jonibeknosirxonov0@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-@premvibe-0088cc?style=for-the-badge&logo=telegram&logoColor=white)
-
----
-
-<div align="center">
-⭐ **Thanks for visiting my profile!**  
-💜 *Don’t forget to star repositories you like!*
-</div>
