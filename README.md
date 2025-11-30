@@ -1,55 +1,83 @@
-# 👋 Hi there, I'm Jonibek!
-
-Welcome to my GitHub profile!  
-I'm a beginner programmer who is passionate about learning algorithms, competitive programming, and building real-world software projects.
-
----
-
-## 🚀 About Me
-- 🌱 Currently learning **C++**, **Python**, and **Algorithms**  
-- 🎯 Preparing for **ICPC** and active on **Codeforces** & **Robocontest**  
-- 💻 Interested in **Linux**, penetration testing basics, and system customization  
-- 🎮 I enjoy exploring operating systems like Pop!_OS and experimenting with tools  
-- 📚 Always learning new technologies and improving my coding skills
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=25&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Jonibek!+👋;C++,+Python,+Algorithms+Enthusiast;Competitive+Programmer+%7C+Linux+User;Welcome+to+my+GitHub+Profile!" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-
-### Programming Languages
-- **C++**, **Python**, **JavaScript (Basics)**
-
-### Tools & Platforms
-- **Linux (Pop!_OS, Ubuntu)**  
-- **Git & GitHub**  
-- **VS Code**, **G++**, **Python3**  
-- **Codeforces**, **Robocontest**
-
-### Currently Learning
-- Data Structures & Algorithms  
-- Binary Search, Recursion, Sorting  
-- Writing cleaner and efficient code
+# 👨‍💻 About Me  
+🌟 Beginner developer passionate about algorithms, backend development, and competitive programming.  
+🎯 Actively practicing on Codeforces & Robocontest.  
+🐧 Linux lover — customizing, testing, and learning every day.  
+🔥 Interested in modern web development and clean coding principles.
 
 ---
 
-## 📊 GitHub Stats
+# 🛠️ Tech Stack & Tools
 
-![Jonibek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+## 🚀 Programming Languages
+<div>
+  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+</div>
+
+## ⚙️ Tools & Platforms
+<div>
+
+  ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+</div>
+
+## 📚 Currently Learning
+- Algorithms (Binary Search, Recursion, Sorting)
+- Data Structures  
+- Web Development (HTML/CSS/JS)  
+- Clean Code Principles
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: your-email@example.com  
-- 💬 Telegram: your-telegram-link  
-- 🌐 Portfolio (optional): your-website.com
+# 🏆 Competitive Programming Profiles
+
+<div>
+
+🔹 **Codeforces:** [@premvibe](https://codeforces.com/profile/premvibe)  
+🔹 **Robocontest:** [@premvibe](https://robocontest.uz/profile/premvibe)
+
+</div>
 
 ---
 
-## 🧠 Quote That Inspires Me
-> *“The only way to learn to program is by writing code.”*
+# 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=20)
+
+</div>
 
 ---
 
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories.**
+# 📬 Contact Me
+
+<div>
+
+📧 Email: **jonibeknosirxonov0@gmail.com**  
+💬 Telegram: [@premvibe](https://t.me/premvibe)
+
+</div>
+
+---
+
+<div align="center">
+  
+### ⭐ *Thanks for visiting my profile!*  
+### 💜 *Don’t forget to star repositories you like!*
+
+</div>
